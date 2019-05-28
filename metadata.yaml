@@ -1,0 +1,23 @@
+_repo: Children-of-the-Arctic_59527
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Diebitsch-Peary, Josephine
+    gutenberg_agent_id: '50491'
+    url: http://www.gutenberg.org/2009/agents/50491
+  - agent_name: Peary, Marie Ahnighito
+    gutenberg_agent_id: '50492'
+    url: http://www.gutenberg.org/2009/agents/50492
+description: ''
+gutenberg_issued: '2019-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Children of the Arctic
+url: http://www.gutenberg.org/ebooks/59527
